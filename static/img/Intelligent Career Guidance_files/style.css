@@ -94,7 +94,8 @@ blockquote {
 	color: #374050;
 }
 
-blockquote:before{
+blockquote:before
+{
 	content:"\f10d";
 	font-family:fontAwesome;
 	position:absolute;
